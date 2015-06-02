@@ -21,4 +21,9 @@ require plugin_dir_path( __FILE__ ) . 'login.php';
  * Adds Shortened Time Option
  */
 require plugin_dir_path( __FILE__ ) . 'time.php';
+
+/**
+ * Adds Contitional for Can Manage Event
+ */
+require plugin_dir_path( __FILE__ ) . 'manage.php';
 ?>
